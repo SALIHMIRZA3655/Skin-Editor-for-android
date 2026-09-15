@@ -1,0 +1,6 @@
+{
+  "name": "Skin Pack Maker",
+  "description": "Minecraft için karakter tasarlama, klasik veya slim model seçme, önceden yapılmış skinleri aktarma ve doğrudan oyuna entegre edilebilir .mcpack paketleri oluşturma uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
